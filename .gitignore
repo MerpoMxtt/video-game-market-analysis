@@ -221,3 +221,15 @@ data/
 *.duckdb
 *.csv
 .venv/
+
+# Data files — too large for git
+data/
+
+# DuckDB database files
+*.duckdb
+
+# Raw CSVs anywhere
+*.csv
+
+# Virtual environment
+.venv/
